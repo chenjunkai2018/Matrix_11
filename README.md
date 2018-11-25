@@ -26,6 +26,7 @@
 6：在线增量学习
 
 [CSDN博客](http://blog.csdn.net/matrix_space)
+
 [Google-scholar]()
 
 
