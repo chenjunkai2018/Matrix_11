@@ -29,7 +29,7 @@ Photoshop 滤镜算法研究
 
 [豆瓣](https://www.douban.com/people/shiyi_forever/)
 
-[Google-scholar]()
+[Google-scholar](https://scholar.google.com.hk/citations?user=rxgVQYkAAAAJ&hl=en)
 
 [Github](https://github.com/chenjunkai2018)
 
