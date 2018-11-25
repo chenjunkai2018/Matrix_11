@@ -26,11 +26,11 @@ Photoshop 滤镜算法研究
 
 ### 相关链接
 
-[CSDN博客](http://blog.csdn.net/matrix_space)
+[我的CSDN博客](http://blog.csdn.net/matrix_space)
 
-[豆瓣](https://www.douban.com/people/shiyi_forever/)
+[我的豆瓣](https://www.douban.com/people/shiyi_forever/)
 
-[Google-scholar](https://scholar.google.com.hk/citations?user=rxgVQYkAAAAJ&hl=en)
+我发表的文章 [Google-scholar](https://scholar.google.com.hk/citations?user=rxgVQYkAAAAJ&hl=en)
 
 [Github](https://github.com/chenjunkai2018)
 
