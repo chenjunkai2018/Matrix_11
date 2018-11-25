@@ -4,6 +4,15 @@ You can use the [editor on GitHub](https://github.com/chenjunkai2018/chenjunkai/
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
+教育经历：
+
+09/2013－04/2017 哲学博士，电子资讯工程，香港理工大学
+
+09/2010－06/2013 工学硕士，信号与信息处理，西安交通大学
+
+09/2006－06/2010 工学学士，电子科学与技术，西北工业大学
+
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
