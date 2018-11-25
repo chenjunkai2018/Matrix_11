@@ -33,4 +33,6 @@ Photoshop 滤镜算法研究
 
 [Github](https://github.com/chenjunkai2018)
 
+[领英](https://www.linkedin.com/feed/)
+
 
