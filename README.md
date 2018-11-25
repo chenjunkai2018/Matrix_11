@@ -1,8 +1,6 @@
-## Welcome to GitHub Pages
+## 个人主页
 
-You can use the [editor on GitHub](https://github.com/chenjunkai2018/chenjunkai/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+专注于图像处理，计算机视觉，机器学习。渴望写出优美的代码与文字。走遍万水千山，在维数的世界里寻找各种可能。
 
 教育经历：
 
@@ -13,34 +11,8 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 09/2006－06/2010 工学学士，电子科学与技术，西北工业大学
 
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
 ```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+E = mc^{2}
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/chenjunkai2018/chenjunkai/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
