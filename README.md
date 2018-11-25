@@ -6,7 +6,7 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 教育经历：
 
-09/2013－04/2017 哲学博士，电子资讯工程，香港理工大学
+09/2013－09/2017 哲学博士，电子资讯工程，香港理工大学
 
 09/2010－06/2013 工学硕士，信号与信息处理，西安交通大学
 
