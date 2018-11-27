@@ -13,10 +13,9 @@
 
 ### 研究经历
 
-Photoshop 图像特效及滤镜算法研究
+Photoshop 图像特效及滤镜算法研究 [我的CSDN博客](http://blog.csdn.net/matrix_space)
 
-人脸表情识别，情感计算，多模态 (multi-modality) 的情感分析
-以及多标签的 facial action unit detection
+情感计算，表情识别，facial action unit detection [My Google-scholar](https://scholar.google.com.hk/citations?user=rxgVQYkAAAAJ&hl=en)
 
 图像超分辨率算法研究
 
@@ -24,11 +23,7 @@ Photoshop 图像特效及滤镜算法研究
 
 ### 相关链接
 
-[我的CSDN博客](http://blog.csdn.net/matrix_space)
-
 [我的豆瓣](https://www.douban.com/people/shiyi_forever/)
-
-我发表的文章 [Google-scholar](https://scholar.google.com.hk/citations?user=rxgVQYkAAAAJ&hl=en)
 
 [Github](https://github.com/chenjunkai2018)
 
