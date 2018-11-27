@@ -13,14 +13,12 @@
 
 ### 研究经历
 
-Photoshop 滤镜算法研究
+Photoshop 图像特效及滤镜算法研究
 
 人脸表情识别，情感计算，多模态 (multi-modality) 的情感分析
 以及多标签的 facial action unit detection
 
-高动态范围（HDR）摄影中的 tone mapping 算法研究
-
-手机拍照无损变焦超分辨率（SR）算法的研究
+图像超分辨率算法研究
 
 在线增量学习
 
