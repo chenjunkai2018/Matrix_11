@@ -13,9 +13,11 @@
 
 ### 研究经历
 
-Photoshop 图像特效及滤镜算法研究 [我的CSDN博客](http://blog.csdn.net/matrix_space)
+Photoshop 图像特效及滤镜算法研究
+[我的CSDN博客](http://blog.csdn.net/matrix_space)
 
-情感计算，表情识别，facial action unit detection [My Google-scholar](https://scholar.google.com.hk/citations?user=rxgVQYkAAAAJ&hl=en)
+情感计算，表情识别，facial action unit detection 
+[My Google-scholar](https://scholar.google.com.hk/citations?user=rxgVQYkAAAAJ&hl=en)
 
 图像超分辨率算法研究
 
