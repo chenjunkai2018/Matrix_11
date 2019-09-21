@@ -21,11 +21,7 @@ Photoshop 图像特效及滤镜算法研究 （2011-2013）
 
 [My Google-scholar](https://scholar.google.com.hk/citations?user=rxgVQYkAAAAJ&hl=en)
 
-图像超分辨率算法研究 （2017-2018）
-
-在线学习, 弱监督增量学习算法研究 （2018-）
-
-自动泊车，车位线检测，跟踪算法研究 （2019-）
+图像处理，计算摄影 ，在线学习, 弱监督增量学习，目标检测，跟踪
 
 ### 相关链接
 
