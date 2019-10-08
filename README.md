@@ -13,17 +13,17 @@
 
 ### 研究经历
 
-Photoshop 图像特效及滤镜算法研究 （2011-2013）
+Photoshop 图像特效及滤镜算法研究
 
-[我的CSDN博客](http://blog.csdn.net/matrix_space)
-
-表情识别，facial action unit detection （2013-2016）
-
-[My Google-scholar](https://scholar.google.com.hk/citations?user=rxgVQYkAAAAJ&hl=en)
+表情识别，facial action unit detection
 
 图像处理，计算摄影 ，在线学习, 弱监督增量学习，目标检测，跟踪
 
 ### 相关链接
+
+[我的CSDN博客](http://blog.csdn.net/matrix_space)
+
+[My Google-scholar](https://scholar.google.com.hk/citations?user=rxgVQYkAAAAJ&hl=en)
 
 [Github](https://github.com/chenjunkai2018)
 
