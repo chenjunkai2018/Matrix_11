@@ -25,8 +25,6 @@ Photoshop 图像特效及滤镜算法研究 （2011-2013）
 
 ### 相关链接
 
-[我的豆瓣](https://www.douban.com/people/shiyi_forever/)
-
 [Github](https://github.com/chenjunkai2018)
 
 [领英](https://www.linkedin.com/feed/)
