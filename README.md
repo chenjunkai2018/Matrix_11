@@ -23,6 +23,11 @@
 研究过表情识别，facial action unit，熟悉图像识别，多标签分类，目标检测，图像分割，
 研究过增量学习，弱监督学习，不平衡分布下的学习问题
 
+### 专业技能
+
+英语读写能力良好，可以快速调研跟踪最前沿的技术文献，熟悉 Python, OpenCV, Tensorflow, Pytorch 
+
+
 ### 相关链接
 
 [我的CSDN博客](http://blog.csdn.net/matrix_space)
